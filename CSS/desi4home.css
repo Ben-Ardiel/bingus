@@ -1,0 +1,26 @@
+h1 {
+
+}
+a:link, a:visited {
+  background-color: grey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: black;
+  text-align: center;
+} 
+
+body{
+	background-image: url(https://vignette.wikia.nocookie.net/uncyclopedia/images/7/72/Funny_face_old_man.jpg/revision/latest?cb=20070401033111);
+}
+p {
+  color: red;
+  text-align: center;
+  border-left: 6px solid red;
+  background-color: white;
+}
